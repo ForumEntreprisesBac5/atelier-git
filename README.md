@@ -27,6 +27,12 @@ Liste des étudiants ayant réussi cet atelier
 
 #### Aller plus loin
 
+Récapitulatifs des commandes :
 - Git Cheatsheet by GitHub: https://services.github.com/on-demand/downloads/github-git-cheat-sheet/
-- https://learngitbranching.js.org/
 - https://gist.github.com/hofmannsven/6814451
+- `git --help`
+
+Tutoriels / documentation :
+- https://learngitbranching.js.org/
+- https://www.atlassian.com/fr/git/tutorials
+- https://git-scm.com/doc
