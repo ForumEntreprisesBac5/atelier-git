@@ -13,7 +13,7 @@ Pour commencer, récupérez sur votre disque dur les sources du projet.
 - Savoir créer une branche, changer de branche
 - Comprendre le fonctionnnement d'un merge, résoudre des conflits
 - Savoir récupérer l'avancement d'une branche
-
+- Visualiser l'avancement des branches
 
 
 ---
