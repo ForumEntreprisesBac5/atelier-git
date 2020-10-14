@@ -20,4 +20,13 @@ Pour commencer, récupérez sur votre disque dur les sources du projet.
 
 Liste des étudiants ayant réussi cet atelier
 --------------------------------------------
-* 
+* Antonin
+
+
+---
+
+#### Aller plus loin
+
+- Git Cheatsheet by GitHub: https://services.github.com/on-demand/downloads/github-git-cheat-sheet/
+- https://learngitbranching.js.org/
+- https://gist.github.com/hofmannsven/6814451
