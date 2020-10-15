@@ -14,7 +14,7 @@ Pour commencer, récupérez sur votre disque dur les sources du projet.
 - Comprendre le fonctionnnement d'un merge, résoudre des conflits
 - Savoir récupérer l'avancement d'une branche
 - Visualiser l'avancement des branches
-
+DONE !
 
 ---
 
