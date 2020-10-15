@@ -22,6 +22,7 @@ Liste des étudiants ayant réussi cet atelier
 --------------------------------------------
 * Antonin
 
+Bravo les enfants 👍👏
 
 ---
 
