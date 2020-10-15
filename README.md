@@ -21,6 +21,7 @@ Pour commencer, récupérez sur votre disque dur les sources du projet.
 Liste des étudiants ayant réussi cet atelier
 --------------------------------------------
 * Antonin
+* Lucas
 
 
 ---
