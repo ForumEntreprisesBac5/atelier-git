@@ -23,6 +23,7 @@ Liste des étudiants ayant réussi cet atelier
 * Antonin
 * Lucas
 * William
+* Rémy
 
 
 ---
