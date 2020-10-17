@@ -22,7 +22,7 @@ Liste des étudiants ayant réussi cet atelier
 --------------------------------------------
 * Antonin
 * Lucas
-* Rémy
+* Rémy (skyreymz)
 
 
 ---
