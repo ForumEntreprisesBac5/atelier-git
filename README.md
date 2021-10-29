@@ -25,6 +25,9 @@ Liste des étudiants ayant réussi cet atelier
 * William
 * Rémy
 
+Pour 2021 :
+* Thomas
+
 Bravo les enfants 👍👏
 
 ---
