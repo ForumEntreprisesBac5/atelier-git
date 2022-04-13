@@ -27,6 +27,7 @@ Liste des étudiants ayant réussi cet atelier
 
 Pour 2021 :
 * Thomas
+* Mathis
 
 Bravo les enfants 👍👏
 
